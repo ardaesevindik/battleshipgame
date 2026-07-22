@@ -1,9 +1,6 @@
 <div align="center">
 
-# 🚢 BATTLESHIP GAME
-*Created by **Arda Ertuğ Sevindik***
-
-`[██████████████████████████████] LOADING COMPLETE! %100`
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=26&pause=1000&color=2ecc71&center=true&vCenter=true&width=600&height=80&lines=BATTLESHIP+GAME...;Created+by+Arda+Ertuğ+Sevindik...;%5B██████████████████%5D+LOADING+COMPLETE!" alt="Animated Text" />
 
 </div>
 
